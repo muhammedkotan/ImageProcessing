@@ -1,4 +1,4 @@
-Dr. Öğr. Üyesi Muhammed KOTAN
+Dr. Öğr. Üyesi Muhammed KOTAN - Asst. Prof. Dr. Muhammed KOTAN
 
 ---
 bu depo Dijital Görüntü İşleme dersinde gerçekleştirdiğimiz uygulamaları içermektedir. Kaynaklar için lütfen orjinal sayfaları inceleyiniz.
